@@ -5,16 +5,16 @@
 
 <!-- Animated Typing Subtitle -->
 <a href="https://github.com/gyanranjan1717">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1000&color=05D9E8&center=true&vCenter=true&width=780&height=45&lines=Full-Stack+Engineer+%7C+TypeScript%2C+React%2C+FastAPI%2C+Node.js;700%2B+DSA+Problems+Solved+Across+Global+Platforms;438+LeetCode+%E2%80%A2+137+Codeforces+%E2%80%A2+106+CodeChef;Applied+AI+%26+Agents+%7C+RAG%2C+MCP%2C+Vector+Search;Top+1.5%25+in+JEE+Advanced+%7C+GATE+(CS%2FIT)+Proficient" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1000&color=05D9E8&center=true&vCenter=true&width=780&height=45&lines=Full-Stack+Engineer+%7C+TypeScript%2C+React%2C+FastAPI%2C+Node.js;700%2B+DSA+Problems+Solved+Across+Global+Platforms;LeetCode+%E2%80%A2+Codeforces+%E2%80%A2+CodeChef+%E2%80%A2+Coding+Ninjas+%E2%80%A2+GFG;Applied+AI+%26+Agents+%7C+RAG%2C+MCP%2C+Vector+Search;Top+1.5%25+in+JEE+Advanced+%7C+GATE+(CS%2FIT)+Proficient" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- Quick Social Links -->
+<!-- Quick Social Links (Only Names, No Solved Counts) -->
 <a href="https://ranjangyanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ranjangyanportfolio.vercel.app-05D9E8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0221" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/gyan-ranjan-578a46280/"><img src="https://img.shields.io/badge/LinkedIn-Gyan_Ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/gyanranjan1717/"><img src="https://img.shields.io/badge/LeetCode-438_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221" alt="LeetCode" /></a>
-<a href="https://codeforces.com/profile/gyan.vats"><img src="https://img.shields.io/badge/Codeforces-137_Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0221" alt="Codeforces" /></a>
+<a href="https://leetcode.com/u/gyanranjan1717/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/gyan.vats"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0221" alt="Codeforces" /></a>
 <a href="mailto:ranjangyan153@gmail.com"><img src="https://img.shields.io/badge/Email-ranjangyan153@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221" alt="Email" /></a>
 
 <br/><br/>
@@ -37,7 +37,7 @@ Current Role:     Full-Stack Developer Intern @ CedisiPartners (Remote)
 Degree:           B.Tech in Computer Science & Design Engineering (2023 – 2027)
 Institution:      Rajiv Gandhi Institute of Petroleum Technology (Energy Institute Bengaluru Centre)
 Primary Focus:    Application Layer Engineering, Distributed Systems, Applied AI & Agent Tooling
-Problem Solving:  700+ Problems Solved (LeetCode • Codeforces • CodeChef • Coding Ninjas • GFG)
+Problem Solving:  700+ Problems Solved Across Global Platforms
 Core Competencies:
   - Full-Stack Architecture (React, Next.js, Node.js/Express, FastAPI, PostgreSQL)
   - Distributed Reliability (Redis Locking, In-memory Caching, Asynchronous Pipelines)
@@ -53,26 +53,25 @@ I am a Software Engineer focused on building resilient full-stack systems and ag
 
 <div align="center">
 
-[![Total Solved](https://img.shields.io/badge/Total_Problems_Solved-700%2B-05D9E8?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0D0221)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-438_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221)](https://leetcode.com/u/gyanranjan1717/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-137_Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0221)](https://codeforces.com/profile/gyan.vats)
-[![CodeChef](https://img.shields.io/badge/CodeChef-106_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0221)](#)
-[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-20_Solved-FF6C37?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=0D0221)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-19_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D0221)](#)
-
-<br/><br/>
-
-| Platform | Problems Solved | Core Focus & Topic Strengths | Profile / Handle |
-| :--- | :---: | :--- | :--- |
-| 🟡 **LeetCode** | **438** | Dynamic Programming, Graphs, Trees, Two Pointers, System Design | [@gyanranjan1717](https://leetcode.com/u/gyanranjan1717/) |
-| 🔵 **Codeforces** | **137** | Timed Contests, Number Theory, Constructive Algorithms, Greedy | [@gyan.vats](https://codeforces.com/profile/gyan.vats) |
-| 🟤 **CodeChef** | **106** | Star Contests, Bit Manipulation, Arrays & Math | Contests & Practice |
-| 🟠 **Coding Ninjas** | **20** | Recursion, Backtracking, Linked Lists | Studio Practice |
-| 🟢 **GeeksforGeeks** | **19** | Standard CS Interview Questions, Strings & Matrices | Core DSA |
-| 🏆 **Total Solved** | **700+** | **Comprehensive algorithmic foundations across 5 platforms** | **Continuous Practice** |
+<!-- Animated Problem Solving Banner -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=23&pause=1000&color=05D9E8&center=true&vCenter=true&width=750&height=50&lines=700%2B+Problems+Solved+Across+Global+Platforms;Mastering+Dynamic+Programming+%26+Graph+Algorithms;Active+Competitive+Programmer+on+Global+Judges" alt="700+ Problems Solved" />
 
 <br/>
 
+<!-- Sleek Platform Badges (Clean Names & Logos Only) -->
+<a href="https://leetcode.com/u/gyanranjan1717/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221" alt="LeetCode" /></a>
+&nbsp;
+<a href="https://codeforces.com/profile/gyan.vats"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0221" alt="Codeforces" /></a>
+&nbsp;
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0221" alt="CodeChef" /></a>
+&nbsp;
+<a href="https://www.naukri.com/code360/"><img src="https://img.shields.io/badge/Coding_Ninjas-FF6C37?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=0D0221" alt="Coding Ninjas" /></a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D0221" alt="GeeksforGeeks" /></a>
+
+<br/><br/>
+
+<!-- Live Interactive Problem Solving Cards -->
 <a href="https://leetcode.com/u/gyanranjan1717/">
   <img width="85%" src="https://leetcard.jacoblin.cool/gyanranjan1717?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Activity" />
 </a>
@@ -80,7 +79,7 @@ I am a Software Engineer focused on building resilient full-stack systems and ag
 <br/><br/>
 
 <a href="https://codeforces.com/profile/gyan.vats">
-  <img width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=gyan.vats&theme=tokyonight" alt="Codeforces Stats" />
+  <img width="50%" src="https://codeforces-readme-stats.vercel.app/api/card?username=gyan.vats&theme=tokyonight" alt="Codeforces Stats" />
 </a>
 
 </div>
@@ -150,7 +149,7 @@ I am a Software Engineer focused on building resilient full-stack systems and ag
 
 * 🥇 **JEE Advanced Top 1.5%**: Ranked nationwide among the top 1.5% out of 1,000,000+ engineering aspirants.
 * 🎯 **GATE (CS/IT) Qualified**: Validated proficiencies in Algorithms, Operating Systems, Computer Networks, and DBMS.
-* 🧩 **700+ Global DSA Problems**: Solved 700+ algorithmic problems across LeetCode (438), Codeforces (137), CodeChef (106), Coding Ninjas (20), and GFG (19).
+* 🧩 **700+ Global Problems Solved**: Solved 700+ algorithmic problems across LeetCode, Codeforces, CodeChef, Coding Ninjas, and GeeksforGeeks.
 * 🎖️ **Merit-cum-Means Scholar**: Awarded academic scholarship for maintaining rank in the top 5% of the engineering cohort.
 * 🌟 **Technical Leadership**: Guided 20+ junior students in DSA as a Core Member of the RGIPT Coding Club.
 
