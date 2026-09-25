@@ -119,13 +119,19 @@ I am a Software Engineer focused on building resilient full-stack systems and ag
 
 <div align="center">
 
-### `🐍 Contribution Pulse & Activity Graph`
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gyanranjan1717&bg_color=0D0221&color=05D9E8&line=2F80ED&point=FFFFFF&area=true&area_color=1A1A40&hide_border=true&custom_title=Gyan's%20Contribution%20Pulse" />
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gyanranjan1717/gyanranjan1717/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gyanranjan1717/gyanranjan1717/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gyanranjan1717/gyanranjan1717/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gyanranjan1717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanranjan1717&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=gyanranjan1717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="180" src="https://streak-stats.demolab.com/?user=gyanranjan1717&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
