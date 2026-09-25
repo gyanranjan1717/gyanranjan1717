@@ -1,28 +1,29 @@
 <div align="center">
 
-# 🚀 Gyan Ranjan
-### Full-Stack & Applied AI Software Engineer
-**Building High-Performance Web Applications, Distributed Systems & Agentic AI**
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=220&section=header&text=Gyan%20Ranjan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Applied%20AI%20%7C%20700%2B%20DSA%20Solved&descAlignY=58&descAlign=50" width="100%"/>
 
-<br/>
-
+<!-- Animated Typing Subtitle -->
 <a href="https://github.com/gyanranjan1717">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1000&color=05D9E8&center=true&vCenter=true&width=750&height=45&lines=Full-Stack+Engineer+%7C+TypeScript%2C+React%2C+Node.js%2C+Python;Applied+AI+%26+Agents+%7C+RAG%2C+MCP%2C+Vector+Search;400%2B+LeetCode+Problems+Solved+%7C+GATE+(CS%2FIT)+Proficient;B.Tech+CSD+%40+RGIPT+(Energy+Institute+Bengaluru+Presence);Top+1.5%25+in+JEE+Advanced+Nationwide" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1000&color=05D9E8&center=true&vCenter=true&width=780&height=45&lines=Full-Stack+Engineer+%7C+TypeScript%2C+React%2C+FastAPI%2C+Node.js;700%2B+DSA+Problems+Solved+Across+Global+Platforms;438+LeetCode+%E2%80%A2+137+Codeforces+%E2%80%A2+106+CodeChef;Applied+AI+%26+Agents+%7C+RAG%2C+MCP%2C+Vector+Search;Top+1.5%25+in+JEE+Advanced+%7C+GATE+(CS%2FIT)+Proficient" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
+<!-- Quick Social Links -->
 <a href="https://ranjangyanportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ranjangyanportfolio.vercel.app-05D9E8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D0221" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/gyan-ranjan-578a46280/"><img src="https://img.shields.io/badge/LinkedIn-Gyan_Ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/gyanranjan1717/"><img src="https://img.shields.io/badge/LeetCode-400+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221" alt="LeetCode" /></a>
+<a href="https://leetcode.com/u/gyanranjan1717/"><img src="https://img.shields.io/badge/LeetCode-438_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/gyan.vats"><img src="https://img.shields.io/badge/Codeforces-137_Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0221" alt="Codeforces" /></a>
 <a href="mailto:ranjangyan153@gmail.com"><img src="https://img.shields.io/badge/Email-ranjangyan153@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=gyanranjan1717&color=05D9E8&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/gyanranjan1717?style=flat-square&color=2F80ED&labelColor=0D0221&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/gyanranjan1717?style=flat-square&color=05D9E8&labelColor=0D0221&label=STARS" />
-<img src="https://img.shields.io/badge/Status-Actively_Interviewing_for_SWE_Roles-00C853?style=flat-square&labelColor=0D0221" />
+<!-- Live GitHub Status & Views -->
+<img src="https://komarev.com/ghpvc/?username=gyanranjan1717&color=05D9E8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/gyanranjan1717?style=flat-square&color=2F80ED&labelColor=0D0221&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/gyanranjan1717?style=flat-square&color=05D9E8&labelColor=0D0221&label=STARS" alt="Stars" />
+<img src="https://img.shields.io/badge/Status-Actively_Interviewing_for_SWE_Roles-00C853?style=flat-square&labelColor=0D0221" alt="Status" />
 
 </div>
 
@@ -36,14 +37,53 @@ Current Role:     Full-Stack Developer Intern @ CedisiPartners (Remote)
 Degree:           B.Tech in Computer Science & Design Engineering (2023 – 2027)
 Institution:      Rajiv Gandhi Institute of Petroleum Technology (Energy Institute Bengaluru Centre)
 Primary Focus:    Application Layer Engineering, Distributed Systems, Applied AI & Agent Tooling
+Problem Solving:  700+ Problems Solved (LeetCode • Codeforces • CodeChef • Coding Ninjas • GFG)
 Core Competencies:
   - Full-Stack Architecture (React, Next.js, Node.js/Express, FastAPI, PostgreSQL)
   - Distributed Reliability (Redis Locking, In-memory Caching, Asynchronous Pipelines)
   - Applied AI (RAG with Vector DBs, Model Context Protocol Connectors, Tool Calling)
-  - Data Structures & Algorithms (400+ LeetCode, GATE CS/IT Qualified)
+  - Algorithmic Rigor (Top 1.5% JEE Advanced, GATE CS/IT Qualified, 700+ DSA)
 ```
 
 I am a Software Engineer focused on building resilient full-stack systems and agentic AI tools. At **CedisiPartners**, I architected enterprise web platform features, built media pipelines reducing asset payloads by 60–80%, integrated verification gateways with 99.8% uptime, and programmed 15+ secure RESTful endpoints.
+
+---
+
+## 🧩 Algorithmic Mastery & 700+ Problem Solving Journey
+
+<div align="center">
+
+[![Total Solved](https://img.shields.io/badge/Total_Problems_Solved-700%2B-05D9E8?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0D0221)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-438_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221)](https://leetcode.com/u/gyanranjan1717/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-137_Solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D0221)](https://codeforces.com/profile/gyan.vats)
+[![CodeChef](https://img.shields.io/badge/CodeChef-106_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D0221)](#)
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-20_Solved-FF6C37?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=0D0221)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-19_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D0221)](#)
+
+<br/><br/>
+
+| Platform | Problems Solved | Core Focus & Topic Strengths | Profile / Handle |
+| :--- | :---: | :--- | :--- |
+| 🟡 **LeetCode** | **438** | Dynamic Programming, Graphs, Trees, Two Pointers, System Design | [@gyanranjan1717](https://leetcode.com/u/gyanranjan1717/) |
+| 🔵 **Codeforces** | **137** | Timed Contests, Number Theory, Constructive Algorithms, Greedy | [@gyan.vats](https://codeforces.com/profile/gyan.vats) |
+| 🟤 **CodeChef** | **106** | Star Contests, Bit Manipulation, Arrays & Math | Contests & Practice |
+| 🟠 **Coding Ninjas** | **20** | Recursion, Backtracking, Linked Lists | Studio Practice |
+| 🟢 **GeeksforGeeks** | **19** | Standard CS Interview Questions, Strings & Matrices | Core DSA |
+| 🏆 **Total Solved** | **700+** | **Comprehensive algorithmic foundations across 5 platforms** | **Continuous Practice** |
+
+<br/>
+
+<a href="https://leetcode.com/u/gyanranjan1717/">
+  <img width="85%" src="https://leetcard.jacoblin.cool/gyanranjan1717?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Activity" />
+</a>
+
+<br/><br/>
+
+<a href="https://codeforces.com/profile/gyan.vats">
+  <img width="48%" src="https://codeforces-readme-stats.vercel.app/api/card?username=gyan.vats&theme=tokyonight" alt="Codeforces Stats" />
+</a>
+
+</div>
 
 ---
 
@@ -52,15 +92,16 @@ I am a Software Engineer focused on building resilient full-stack systems and ag
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,cloudflare,git,github,vscode,tailwind,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,nodejs,express,fastapi,postgres,mongodb,redis,docker,cloudflare,git,github,vscode,tailwind,latex&theme=dark" alt="Skill Icons" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7B2FF7?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-05D9E8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-Vector_Embeddings-2F80ED?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/PostGIS-Geospatial_Engine-336791?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7B2FF7?style=for-the-badge&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-05D9E8?style=for-the-badge&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/ChromaDB-Vector_Embeddings-2F80ED?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/PostGIS-Geospatial_Engine-336791?style=for-the-badge&logoColor=white" alt="PostGIS" />
+<img src="https://img.shields.io/badge/Redis-Distributed_Locking-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 </div>
 
@@ -109,7 +150,7 @@ I am a Software Engineer focused on building resilient full-stack systems and ag
 
 * 🥇 **JEE Advanced Top 1.5%**: Ranked nationwide among the top 1.5% out of 1,000,000+ engineering aspirants.
 * 🎯 **GATE (CS/IT) Qualified**: Validated proficiencies in Algorithms, Operating Systems, Computer Networks, and DBMS.
-* 🧩 **400+ LeetCode Solved**: Solved 400+ algorithmic problems across Dynamic Programming, Graphs, and Trees.
+* 🧩 **700+ Global DSA Problems**: Solved 700+ algorithmic problems across LeetCode (438), Codeforces (137), CodeChef (106), Coding Ninjas (20), and GFG (19).
 * 🎖️ **Merit-cum-Means Scholar**: Awarded academic scholarship for maintaining rank in the top 5% of the engineering cohort.
 * 🌟 **Technical Leadership**: Guided 20+ junior students in DSA as a Core Member of the RGIPT Coding Club.
 
@@ -135,9 +176,7 @@ I am a Software Engineer focused on building resilient full-stack systems and ag
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/gyanranjan1717/">
-  <img width="85%" src="https://leetcard.jacoblin.cool/gyanranjan1717?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity" />
-</a>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gyanranjan1717&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -158,5 +197,10 @@ I am actively interviewing for **Software Engineering (SWE)** and **Full-Stack D
 <br/>
 
 ***"Ship reliable code. Keep the fundamentals honest. Build with purpose."***
+
+<br/>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
